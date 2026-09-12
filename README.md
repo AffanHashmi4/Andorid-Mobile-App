@@ -19,6 +19,9 @@ library and Mushaf reader for Sheikh Yasser Al-Dossari's early recitations.
   prefixes), alternate names, and Arabic script, mapped to their exact starting
   page in the standard 604-page Madani Mushaf
 
+## TO DOWNLOAD:
+https://affanhashmi4.github.io/Andorid-Mobile-App/
+
 ## Tech stack
 
 - **Flutter / Dart**
